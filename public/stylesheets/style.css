@@ -19,6 +19,15 @@ body {
   margin-top: 2rem;
 }
 
+.navbar-menu {
+  margin-left: auto;
+  flex-grow: 0;
+}
+
+.navbar-brand{
+  margin-bottom:0!important;
+}
+
 .custom-brand a {
   color: #333;
 }
@@ -91,6 +100,8 @@ img.detail-image {
   color: #ddd;
   float: right;
 }
+
+
 
 /***** CSS Magic to Highlight Stars on Hover *****/
 
